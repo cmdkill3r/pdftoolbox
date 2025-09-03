@@ -32,7 +32,7 @@
 
 ## Screenshot
 
-![GUI Screenshot](screenshots/gui.png)  
+![GUI Screenshot](gui.png)  
 
 ---
 
