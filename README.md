@@ -53,14 +53,13 @@ git clone https://github.com/cmdkill3r/pdf-tool-box.git
 cd pdf-tool-box
 Install dependencies:
 
-bash
-Copy code
+
+
 pip install -r requirements.txt
 Usage
 Run the application:
 
-bash
-Copy code
+
 python main.py
 Inject JS Payload
 
