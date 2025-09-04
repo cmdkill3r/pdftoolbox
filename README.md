@@ -112,9 +112,11 @@ screenshots/gui.png – Screenshot of the GUI.
 
 ---
 GitHub
+---
 For updates, issues, and more tools, visit: https://github.com/cmdkill3r
 
 License
+---
 This project is licensed under the MIT License.
 
-Disclaimer: This tool is strictly for educational purposes. The author is not responsible for misuse.
+#Disclaimer: This tool is strictly for educational purposes. The author is not responsible for misuse.
