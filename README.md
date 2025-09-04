@@ -98,6 +98,8 @@ Choose a save location for the cleaned PDF.
 ---
 
 Files Included
+---
+
 main.py – Main Python application.
 
 js_payload.js – Example JavaScript payload for testing.
@@ -107,7 +109,8 @@ test.pdf – Sample PDF for testing injection and cleaning.
 requirements.txt – Required Python packages.
 
 screenshots/gui.png – Screenshot of the GUI.
-
+---
+---
 GitHub
 For updates, issues, and more tools, visit: https://github.com/cmdkill3r
 
