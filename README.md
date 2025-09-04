@@ -5,7 +5,7 @@ PDF Tool Box
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Development-yellow)
 
-> PDF Tool Box brings a sleek, modern, dark-themed interface to your fingertips, letting you safely inject JavaScript, scan for malicious code, and clean PDFs—all in one professional, easy-to-use application. This tool is intended strictly for educational purposes, testing, and learning how PDFs can be manipulated safely.  
+> PDF Tool Box lets you safely inject JavaScript, scan for malicious code, and clean PDFs—all in one professional, easy-to-use application. This tool is intended strictly for educational purposes, testing, and learning how PDFs can be manipulated safely.  
 
 ---
 
