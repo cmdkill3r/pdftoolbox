@@ -119,4 +119,4 @@ License
 ---
 This project is licensed under the MIT License.
 
-#Disclaimer: This tool is strictly for educational purposes. The author is not responsible for misuse.
+# Disclaimer: This tool is strictly for educational purposes. The author is not responsible for misuse.
