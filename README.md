@@ -1,4 +1,5 @@
-# PDF Tool Box
+PDF Tool Box
+---
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -44,23 +45,30 @@
 
 ---
 
-## Installation
+Installation
+---
 
 1. **Clone this repository:**
 
 ```bash
 git clone https://github.com/cmdkill3r/pdf-tool-box.git
 cd pdf-tool-box
+```
+
 Install dependencies:
-
-
-
+---
+```
 pip install -r requirements.txt
+```
+
 Usage
+---
 Run the application:
-
-
+---
+```
 python main.py
+```
+---
 Inject JS Payload
 
 Click the Inject JS Payload button.
@@ -86,6 +94,7 @@ Click the Clean PDF (Remove JS) button.
 Select the PDF to clean.
 
 Choose a save location for the cleaned PDF.
+---
 
 Files Included
 main.py – Main Python application.
