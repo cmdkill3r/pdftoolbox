@@ -109,7 +109,7 @@ test.pdf – Sample PDF for testing injection and cleaning.
 requirements.txt – Required Python packages.
 
 screenshots/gui.png – Screenshot of the GUI.
----
+
 ---
 GitHub
 For updates, issues, and more tools, visit: https://github.com/cmdkill3r
