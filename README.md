@@ -61,13 +61,13 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Usage
----
 Run the application:
 ---
 ```
 python main.py
 ```
+---
+Usage
 ---
 Inject JS Payload
 
@@ -94,6 +94,7 @@ Click the Clean PDF (Remove JS) button.
 Select the PDF to clean.
 
 Choose a save location for the cleaned PDF.
+
 ---
 
 Files Included
